@@ -1,0 +1,14 @@
+#!/bin/bash
+#npm init 
+#создается package.json
+#npm i webpack --save-dev
+#npm run test
+#npm i webpack-cli --save-dev
+#npm rub build
+#mkdir -p src && touch src/index.js
+#npm run build
+#npm i webpack-dev-server --save-dev
+#npm i path --save-dev
+npm i babel-core babel-loader babel-preset-env babel-preset-stage-3 --save-dev
+npx babel-upgrade --write
+
